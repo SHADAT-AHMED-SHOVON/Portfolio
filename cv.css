@@ -73,6 +73,13 @@ td {
     padding-left: 20px;
     width: 48%;
 }
+.skill-item h3 {
+    text-decoration: underline;
+}
+.skill-item ul {
+    padding-left: 10px;
+    list-style-type: circle;
+}
 /*Footer*/
 footer {
     background-color: #323131;
