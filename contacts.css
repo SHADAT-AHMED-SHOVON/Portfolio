@@ -1,0 +1,40 @@
+/*Contacts*/
+.exp{
+    background-color: black;
+    padding: 80px 50px;
+    text-align: left;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-image: url('background_photo.png');
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat;
+    
+}
+.exp .cont{
+    padding: 15px;
+}
+.cont label {
+    display: inline;
+    width: 280px; 
+}
+
+a{
+    color: rgb(206, 60, 60);
+    text-decoration: none;
+}
+/*Footer*/
+footer {
+    background-color: #323131;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
